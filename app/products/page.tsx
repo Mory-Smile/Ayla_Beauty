@@ -20,11 +20,11 @@ export default function ProductsPage() {
             >
               <li key={product.id}>
                 <Image
+                  src={product.imageUrl}
+                  alt={product.name}
                   width={250}
                   height={250}
                   className="rounded-4xl hover:scale-110 transition-transform mb-7"
-                  src={require(`.${product.imageUrl}`)}
-                  alt={product.name}
                 />
               </li>
               <li key={idx}>{product.name}</li>

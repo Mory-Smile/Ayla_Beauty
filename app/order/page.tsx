@@ -115,7 +115,7 @@ export default function OrderPage() {
                   width={200}
                   height={200}
                   className="rounded-full hover:scale-110 transition-transform py-5"
-                  src={require(`../products${product.imageUrl}`)}
+                  src={product.imageUrl}
                   alt={product.name}
                 />
               </label>
