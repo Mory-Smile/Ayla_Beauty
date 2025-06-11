@@ -71,8 +71,8 @@ export default function OrderPage() {
         onSubmit={handleSubmit}
         className="bg-white p-10 pt-0 rounded-3xl shadow-xl w-[40rem] flex flex-col items-center"
       >
-        <p className="px-6 py-3 mb-10 bg-[#e7be39] w-[114.5%] text-white text-2xl text-center shadow-2xl">
-          Price: <span className="line-through">200 L.E </span>
+        <p className="text-[2.5rem] px-6 py-3 mb-10 bg-[#e7be39] w-[114.5%] text-white text-2xl text-center shadow-2xl">
+          Price: <span className="">200 L.E </span>
         </p>
         <h2 className="text-2xl font-semibold text-center mb-6 text-[#2B2B2B]">
           Place Your Order

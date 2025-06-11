@@ -8,7 +8,7 @@ export default function ProductsPage() {
     <div className="min-h-screen bg-[#EEE1CF] flex items-center justify-center">
       <div className="text-black font-semibold text-center">
         <Link href="/order">
-          <button className="px-6 py-3 mb-5 bg-[#D4AF37] w-[100%] text-white text-lg cursor-pointer">
+          <button className="px-6 py-3 mb-5 bg-[#D4AF37] w-[100%] text-white text-[1.5rem] text-lg cursor-pointer">
             Order Now
           </button>
         </Link>
