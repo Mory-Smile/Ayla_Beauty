@@ -49,7 +49,7 @@
   },
   {
     "id": 9,
-    "name": "AYLA squizeer",
+    "name": "AYLA squeezer",
     "price": "100 - 130",
     "imageUrl": "/images/24 AYLA KIT 4.jpg"
   },
@@ -86,19 +86,19 @@
   },
   {
     "id": 15,
-    "name": "Lattee Squeezer / 10 ml",
+    "name": "Lattee squeezer / 10 ml",
     "price": 130,
     "imageUrl": "/images/11 Lattee.jpg"
   },
   {
     "id": 16,
-    "name": "Peachy Squeezer / 5 ml",
+    "name": "Peachy squeezer / 5 ml",
     "price": 100,
     "imageUrl": "/images/12 Peachy.jpg"
   },
   {
     "id": 17,
-    "name": "Bubblegum Pink Squeezer / 10 ml",
+    "name": "Bubblegum Pink squeezer / 10 ml",
     "price": 130,
     "imageUrl": "/images/13 Bubblegum Pink.jpg"
   }
