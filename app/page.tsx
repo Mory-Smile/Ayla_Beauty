@@ -15,26 +15,31 @@ export default function HomePage() {
           <Image
             src="/logo.png"
             alt="Ayla Beauty Logo"
-            width={400}
-            height={400}
+            width={350}
+            height={350}
           />
         </div>
-        <h1 className="text-5xl font-bold mt-8 text-[#2B2B2B]">
+        <h1 className="text-5xl font-bold mb-8 text-[#2B2B2B]">
           Welcome to Ayla Beauty
         </h1>
+        <div className="main-video flex justify-center items-center mt-10 mb-10">
+          <video src="/images/vid.mp4" width={250} autoPlay loop muted></video>
+        </div>
         <div className="text-lg text-gray-600 mt-4">
           <p>Cherish your lips, Cherish every moment.</p>
         </div>
-        <Link href="/order">
-          <button className="mt-6 px-6 py-3 mr-3 bg-[#D4AF37] text-white rounded-full text-lg hover:scale-105 transition cursor-pointer">
-            Order Now
-          </button>
-        </Link>
-        <Link href="/products">
-          <button className="mt-6 px-6 py-3 bg-[#D4AF37] text-white rounded-full text-lg hover:scale-105 transition cursor-pointer">
-            Browse All
-          </button>
-        </Link>
+        <div className="btns mb-10">
+          <Link href="/order">
+            <button className="mt-6 px-6 py-3 mr-3 bg-[#D4AF37] text-white rounded-full text-lg hover:scale-105 transition cursor-pointer">
+              Order Now
+            </button>
+          </Link>
+          <Link href="/products">
+            <button className="mt-6 px-6 py-3 bg-[#D4AF37] text-white rounded-full text-lg hover:scale-105 transition cursor-pointer">
+              Browse All
+            </button>
+          </Link>
+        </div>
       </motion.div>
     </div>
   );

@@ -13,91 +13,79 @@
   },
   {
     "id": 3,
-    "name": "AYLA KIT 2",
-    "price": 300,
-    "imageUrl": "/images/17 AYLA KIT 2.jpg"
-  },
-  {
-    "id": 4,
-    "name": "AYLA KIT 3",
-    "price": 300,
-    "imageUrl": "/images/18 AYLA KIT 3.jpg"
-  },
-  {
-    "id": 5,
     "name": "Magic lip oil 2",
     "price": 200,
     "imageUrl": "/images/19 Magic lip oil 2.jpg"
   },
   {
-    "id": 6,
+    "id": 4,
     "name": "Bubblegum Pink brush tube",
     "price": 200,
     "imageUrl": "/images/21 Bubblegum Pink 2.jpg"
   },
   {
-    "id": 7,
+    "id": 5,
     "name": "Peachy brush tube",
     "price": 200,
     "imageUrl": "/images/22 Peachy 2.jpg"
   },
   {
-    "id": 8,
+    "id": 6,
     "name": "Lattee brush tube",
     "price": 200,
     "imageUrl": "/images/23 Lattee 2.jpg"
   },
   {
-    "id": 9,
+    "id": 7,
     "name": "AYLA squeezer",
     "price": "100 - 130",
     "imageUrl": "/images/24 AYLA KIT 4.jpg"
   },
 
   {
-    "id": 10,
+    "id": 8,
     "name": "Candy 🍬",
     "price": 200,
     "imageUrl": "/images/5 Candy.jpg"
   },
   {
-    "id": 11,
+    "id": 9,
     "name": "Mocha ☕",
     "price": 200,
     "imageUrl": "/images/6 Mocha.jpg"
   },
   {
-    "id": 12,
+    "id": 10,
     "name": "Barbie pink shade 💐",
     "price": 200,
     "imageUrl": "/images/7 Barbie pink shade.jpg"
   },
   {
-    "id": 13,
+    "id": 11,
     "name": "Topaz shade",
     "price": 200,
     "imageUrl": "/images/8 Topaz shade.jpg"
   },
   {
-    "id": 14,
+    "id": 12,
     "name": "Espresso shade ☕️",
     "price": 200,
     "imageUrl": "/images/9 Espresso shade.jpg"
   },
   {
-    "id": 15,
+    "id": 13,
     "name": "Lattee squeezer / 10 ml",
     "price": 130,
     "imageUrl": "/images/11 Lattee.jpg"
   },
   {
-    "id": 16,
+    "id": 14,
     "name": "Peachy squeezer / 5 ml",
     "price": 100,
     "imageUrl": "/images/12 Peachy.jpg"
   },
   {
-    "id": 17,
+    "id": 15,
     "name": "Bubblegum Pink squeezer / 10 ml",
     "price": 130,
     "imageUrl": "/images/13 Bubblegum Pink.jpg"
